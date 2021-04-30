@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dinamicka-test/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/dinamicka-test/static/js/main.9ccfd2d6.chunk.js",
+    "main.js.map": "/dinamicka-test/static/js/main.9ccfd2d6.chunk.js.map",
+    "runtime-main.js": "/dinamicka-test/static/js/runtime-main.fc3bc2dd.js",
+    "runtime-main.js.map": "/dinamicka-test/static/js/runtime-main.fc3bc2dd.js.map",
+    "static/js/2.60b35533.chunk.js": "/dinamicka-test/static/js/2.60b35533.chunk.js",
+    "static/js/2.60b35533.chunk.js.map": "/dinamicka-test/static/js/2.60b35533.chunk.js.map",
+    "index.html": "/dinamicka-test/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/dinamicka-test/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.60b35533.chunk.js.LICENSE.txt": "/dinamicka-test/static/js/2.60b35533.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc3bc2dd.js",
+    "static/js/2.60b35533.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.9ccfd2d6.chunk.js"
+  ]
+}
